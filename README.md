@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#*I am Sam Agambar*
+- I am currently studing Digital Cultures and Media at Newcastle University
+- I am currently learning Github and VSS
+- I am currently collaborating on a Group project on the housing market
+- [Here is my LinkedIn](www.linkedin.com/in/sam-agambar)
+
+
+  
+
